@@ -1,0 +1,83 @@
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:5 Carpim:15 Toplam:8
+Tarih ve Saat:5.10.2019 18:19:28
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:4324 Carpim:1412849443 Toplam:4674244
+Tarih ve Saat:5.10.2019 18:39:03
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 4 Üst sınır:12 Carpim:3465 Toplam:32
+Tarih ve Saat:5.10.2019 18:39:25
+İşlem Türü:Armstrong sayiların toplanması ve çarpılması
+Alt sınır: 4 Üst sınır:12 Carpim:60480 Toplam:39
+Tarih ve Saat:5.10.2019 18:39:32
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:221 Carpim:1907019583 Toplam:12321
+Tarih ve Saat:5.10.2019 18:40:11
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:54 Carpim:-2007602641 Toplam:729
+Tarih ve Saat:5.10.2019 18:41:00
+
+İşlem Türü:Çift sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:54 Carpim:0 Toplam:756
+Tarih ve Saat:5.10.2019 18:41:11
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:21 Carpim:864408687 Toplam:121
+Tarih ve Saat:5.10.2019 19:00:31
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:1 Carpim:1 Toplam:0
+Tarih ve Saat:5.10.2019 21:51:19
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:1 Carpim:1 Toplam:0
+Tarih ve Saat:5.10.2019 21:51:24
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:1 Carpim:1 Toplam:0
+Tarih ve Saat:5.10.2019 21:51:24
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:1 Carpim:1 Toplam:0
+Tarih ve Saat:5.10.2019 21:51:25
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:1 Carpim:1 Toplam:0
+Tarih ve Saat:5.10.2019 21:51:25
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 2 Üst sınır:1 Carpim:1 Toplam:0
+Tarih ve Saat:5.10.2019 21:51:25
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:2 Carpim:1 Toplam:1
+Tarih ve Saat:5.10.2019 21:57:31
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:10000 Carpim:481029393 Toplam:25000000
+Tarih ve Saat:5.10.2019 21:59:22
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:5 Carpim:15 Toplam:9
+Tarih ve Saat:5.10.2019 21:59:29
+
+İşlem Türü:Asal sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:5 Carpim:30 Toplam:11
+Tarih ve Saat:5.10.2019 21:59:33
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:10000 Carpim:481029393 Toplam:25000000
+Tarih ve Saat:5.10.2019 22:02:20
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 213 Üst sınır:432 Carpim:261296907 Toplam:35420
+Tarih ve Saat:5.10.2019 22:05:50
+
+İşlem Türü:Tek sayiların toplanması ve çarpılması
+Alt sınır: 1 Üst sınır:232 Carpim:-1906447031 Toplam:13456
+Tarih ve Saat:5.10.2019 22:18:12
+
+İşlem Türü:Asal sayiların toplanması ve çarpılması
+Alt sınır: 4 Üst sınır:54 Carpim:-1158123681 Toplam:376
+Tarih ve Saat:5.10.2019 22:18:33
+

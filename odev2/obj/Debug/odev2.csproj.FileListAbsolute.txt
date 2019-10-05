@@ -1,0 +1,10 @@
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\odev2.csprojAssemblyReference.cache
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\odev2.csproj.GenerateResource.cache
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\odev2.csproj.CoreCompileInputs.cache
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\odev2.Hesaplama.resources
+C:\Users\TUNAY\source\repos\odev2\odev2\bin\Debug\SayısalHesaplamalar.exe.config
+C:\Users\TUNAY\source\repos\odev2\odev2\bin\Debug\SayısalHesaplamalar.exe
+C:\Users\TUNAY\source\repos\odev2\odev2\bin\Debug\SayısalHesaplamalar.pdb
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\SayısalHesaplamalar.Properties.Resources.resources
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\SayısalHesaplamalar.exe
+C:\Users\TUNAY\source\repos\odev2\odev2\obj\Debug\SayısalHesaplamalar.pdb
